@@ -1,2 +1,2 @@
-Frank Pasztor's OOP TMUber assignment for CPS 209.
+Frank Pasztor's OOP TMUber assignment.
 
